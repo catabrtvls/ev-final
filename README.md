@@ -3,7 +3,7 @@
 
 ## ¿Para qué?
 
-Bla bla bla 
+Portafolio personal, para exponer una selección de trabajos realizados en la carrera, proyectando su utilización para conseguir clientes o postular a trabajos en un futuro.
 
 
 
@@ -48,6 +48,20 @@ Portafolio de la diseñadora Nikila Sivaraman. Desarrollado por ella misma, dond
 | ------------- |-------------| 
 | Introduce de manera breve y dinámica acerca de su trabajo. Dedica una sección a mostrar sus proyectos y especialidades, los cuales llevan a una página interior donde se ven más ejemplos. Esta sección es interesante, en cuanto su visualización es mediante scroll.  | El recorrido del sitio no es fluido, probablemente por el peso de las imágenes y las animaciones que utiliza. Alguna de las interacciones no son las mejores para apreciar cada trabajo. | 
 
+****
+
+##Brennanstown Wood
+https://www.brennanstownwood.com/
+
+
+![Captura de pantalla 2022-06-08 115944](https://user-images.githubusercontent.com/75257344/172664490-049ed75d-d9bb-4875-aeea-db5614814abc.jpg)
+![Captura de pantalla 2022-06-08 120017](https://user-images.githubusercontent.com/75257344/172664501-9427a5f6-bbc0-4d8c-bd72-948f6352e056.jpg)
+
+Sitio web de oferta de departamentos.
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+| Posee una gráfica simple, dejando la utilización de colores exclusivamente para las ilustraciones utilizadas. Posee varios apartados, para distintas funciones, además de un menú superior. En general la navegación es sencilla.| Hay un cambio de fondo de blanco a negro al hacer scroll, que tiene una velocidad de transición lenta y que termina no aportando. | 
 
 Nombre
 Imagen (es)
