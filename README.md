@@ -75,6 +75,23 @@ Portafolio del diseñador Lucas de Melo, especializado en motion graphics.
 
 | *Aspectos positivos*  | *Aspectos negativos* | 
 | ------------- |-------------| 
-|Combina aspectos dinámicos, con una diagramación que permite conocer los trabajos ofrecidos por el diseñador. El estilo gráfico ya funciona por si mismo para mostrar el tipo de trabajo realizado. | Las animaciones y transiciones son un poco lentas. |
+|Combina aspectos dinámicos, con una diagramación que permite conocer los trabajos ofrecidos por el diseñador. El estilo gráfico ya funciona por si mismo para mostrar el tipo de trabajo realizado. | Las animaciones y transiciones son un poco lentas. Explorar los trabajos con mayor detalle implica una inversión de tiempo, ya que no muestra todo en una galería en la página principal. |
+
+
+***
+
+### Martin Baillie
+https://www.martinbaillie.com/#illustration
+
+![Captura de pantalla 2022-06-08 122939](https://user-images.githubusercontent.com/75257344/172669212-b7c4c051-c931-41b8-9030-a808bf1cbc6d.jpg)
+![Captura de pantalla 2022-06-08 123023](https://user-images.githubusercontent.com/75257344/172669278-64430917-09fa-40c1-94b6-ff6f07c93d4a.jpg)
+
+Portafolio tipo landing page del diseñador gráfico Martin Baillie. 
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+|La página reúne el contenido necesario para concer el trabajo del diseñador en una página tipo landing page. El menú superior facilita la navegación si se quiere explorar un área en específico. La gráfica en blanco y negro facilita la lectura. Incorpora una galería de ejemplos de sus trabajos en un mismo lugar. | El tamaño de las imágenes que expone en cada sección, puede ser un poco pequeño para alguno de los ejemplos que ilustra. |
+
+
 
 
