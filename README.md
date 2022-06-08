@@ -31,7 +31,9 @@ Sitio web de la ilustradora Sarah Fatmi. Expone su trabajo principal, que corres
 
 | Aspectos positivos  | Aspectos negativos           | 
 | ------------- |:-------------:| 
-| Página dinámica, que responde a un estilo gráfico y es constante con él. Posee       | right-aligned | 
+| Página dinámica, que responde a un estilo gráfico y es constante con él. Posee un display para los trabajos, una breve introducción y una página de contactos. | El scroll va muy rápido, no se puede visualizar cada trabajo de manera individual, no pudiendo así explorar con mayor detalle cada proyecto. | 
+ 
+
 
 
 Nombre
