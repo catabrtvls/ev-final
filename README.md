@@ -50,7 +50,7 @@ Portafolio de la diseñadora Nikila Sivaraman. Desarrollado por ella misma, dond
 
 ****
 
-##Brennanstown Wood
+### Brennanstown Wood
 https://www.brennanstownwood.com/
 
 
@@ -63,8 +63,18 @@ Sitio web de oferta de departamentos.
 | ------------- |-------------| 
 | Posee una gráfica simple, dejando la utilización de colores exclusivamente para las ilustraciones utilizadas. Posee varios apartados, para distintas funciones, además de un menú superior. En general la navegación es sencilla.| Hay un cambio de fondo de blanco a negro al hacer scroll, que tiene una velocidad de transición lenta y que termina no aportando. | 
 
-Nombre
-Imagen (es)
-Descripción
-Fuente (Origen)
-Aspectos positivos/Aspectos negativos
+****
+
+### Lucalem 
+https://lucalem.com/index.html
+
+![Captura de pantalla 2022-06-08 121400](https://user-images.githubusercontent.com/75257344/172666412-691c59e0-eed6-4cea-81a8-1e4a2c590f89.jpg)
+![Captura de pantalla 2022-06-08 121413](https://user-images.githubusercontent.com/75257344/172666450-af55b2a5-c6ed-40ac-afca-21b36337436e.jpg)
+
+Portafolio del diseñador Lucas de Melo, especializado en motion graphics.
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+|Combina aspectos dinámicos, con una diagramación que permite conocer los trabajos ofrecidos por el diseñador. El estilo gráfico ya funciona por si mismo para mostrar el tipo de trabajo realizado. | Las animaciones y transiciones son un poco lentas. |
+
+
