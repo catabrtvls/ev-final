@@ -23,11 +23,11 @@ Necesidades y Objetivos:
 
 Quién: Pablo, 27 años. Egresado hace dos años de diseño.
 
-Aspectos demográficos: 
+Aspectos demográficos: Trabaja en una agencia de diseño y paralelamente hace trabajo freelance. 
 
-Comportamientos: Es proactivo. Está buscando su camino laboral. 
+Comportamientos: Es proactivo. Está buscando su camino laboral y le gusta participar en distintos proyectos que consigue a través de sus contactos.
 
-Necesidades y Objetivos: Busca alguien para colaborar con un nuevo proyecto  que requiere
+Necesidades y Objetivos: Busca alguien para colaborar con un nuevo proyecto que implica trabajo de ilustración y animación. Tiene conocimientos de diseño gráfico, pero no de ilustración, que es lo que necesita actualmente para su proyecto. 
 
 #### Más probable
 
