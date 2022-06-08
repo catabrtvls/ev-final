@@ -29,8 +29,8 @@ https://sarahfatmi.com/en
 
 Sitio web de la ilustradora Sarah Fatmi. Expone su trabajo principal, que corresponde al diseño de personajes e historia. 
 
-| Aspectos positivos  | Aspectos negativos           | 
-| ------------- |:-------------:| 
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
 | Página dinámica, que responde a un estilo gráfico y es constante con él. Posee un display para los trabajos, una breve introducción y una página de contactos. | El scroll va muy rápido, no se puede visualizar cada trabajo de manera individual, no pudiendo así explorar con mayor detalle cada proyecto. | 
  
 
