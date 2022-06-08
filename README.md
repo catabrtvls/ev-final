@@ -121,5 +121,5 @@ Portafolio tipo landing page del diseñador gráfico Martin Baillie.
 
 ### Referentes 
 
-![Sin título-2](https://user-images.githubusercontent.com/75257344/172697562-dc987baa-d686-4b79-8dff-f5aeb2d503ab.jpg)
+![Sin título-2_Mesa de trabajo 1](https://user-images.githubusercontent.com/75257344/172697687-dbe2f03f-e18d-4813-a394-6489a0e3a5e2.jpg)
 
