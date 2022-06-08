@@ -11,13 +11,13 @@ Portafolio personal, para exponer una selección de trabajos realizados en la ca
 
 #### Menos probable
 
-Quién: 
+Quién: Roberto, 45 años. 
 
-Aspectos demográficos:
+Aspectos demográficos: Trabaja en una oficina a tiempo completo, como contador. Es padre de familia.
 
-Comportamientos:
+Comportamientos: Sabe navegar de manera básica en internet. A veces ayuda a sus hijos/as con las tareas del colegio. 
 
-Necesidades y Objetivos: 
+Necesidades y Objetivos: Busca imágenes para las tareas de sus hijos, que a veces debe imprimir. 
 
 #### Promedio
 
