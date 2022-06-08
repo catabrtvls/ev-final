@@ -33,7 +33,20 @@ Sitio web de la ilustradora Sarah Fatmi. Expone su trabajo principal, que corres
 | ------------- |-------------| 
 | Página dinámica, que responde a un estilo gráfico y es constante con él. Posee un display para los trabajos, una breve introducción y una página de contactos. | El scroll va muy rápido, no se puede visualizar cada trabajo de manera individual, no pudiendo así explorar con mayor detalle cada proyecto. | 
  
+****
 
+### Nikila Sivaraman
+http://nikilasivaraman.me/
+
+
+![Captura de pantalla 2022-06-08 111516](https://user-images.githubusercontent.com/75257344/172660290-3c9cc3e9-2031-447b-8877-232c7fa22a9a.jpg)
+![Captura de pantalla 2022-06-08 114558](https://user-images.githubusercontent.com/75257344/172660439-ccf7271f-a7c5-43db-beb5-5f2a70880e94.jpg)
+
+Portafolio de la diseñadora Nikila Sivaraman. Desarrollado por ella misma, donde expone sus distintos trabajos.
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+| Introduce de manera breve y dinámica acerca de su trabajo. Dedica una sección a mostrar sus proyectos y especialidades, los cuales llevan a una página interior donde se ven más ejemplos. Esta sección es interesante, en cuanto su visualización es mediante scroll.  | El recorrido del sitio no es fluido, probablemente por el peso de las imágenes y las animaciones que utiliza. Alguna de las interacciones no son las mejores para apreciar cada trabajo. | 
 
 
 Nombre
