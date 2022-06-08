@@ -117,5 +117,10 @@ Portafolio tipo landing page del diseñador gráfico Martin Baillie.
 |La página reúne el contenido necesario para concer el trabajo del diseñador en una página tipo landing page. El menú superior facilita la navegación si se quiere explorar un área en específico. La gráfica en blanco y negro facilita la lectura. Incorpora una galería de ejemplos de sus trabajos en un mismo lugar. | El tamaño de las imágenes que expone en cada sección, puede ser un poco pequeño para alguno de los ejemplos que ilustra. |
 
 
+****
 
+### Referentes 
+
+
+![Sin título-1](https://user-images.githubusercontent.com/75257344/172696070-0c436830-89cc-413a-b140-a8473a94af48.jpg)
 
