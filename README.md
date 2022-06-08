@@ -1,13 +1,13 @@
 # Proyecto final
 
 
-##¿Para qué?
+#¿Para qué?
 
 Bla bla bla 
 
 ****
 
-##Usuarios
+#Usuarios
 
 1.
 
@@ -17,5 +17,5 @@ Bla bla bla
 
 ****
 
-##Antecedentes
+#Antecedentes
 
