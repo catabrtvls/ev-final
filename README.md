@@ -19,3 +19,8 @@ Bla bla bla
 
 ## Antecedentes
 
+Nombre
+Imagen (es)
+Descripción
+Fuente (Origen)
+Aspectos positivos/Aspectos negativos
