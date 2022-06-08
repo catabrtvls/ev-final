@@ -9,11 +9,35 @@ Portafolio personal, para exponer una selección de trabajos realizados en la ca
 
 ## Usuarios
 
-1.
+#### Menos probable
 
-2.
+Quién: 
 
-3.
+Aspectos demográficos:
+
+Comportamientos:
+
+Necesidades y Objetivos: 
+
+#### Promedio
+
+Quién: Pablo, 27 años. Egresado hace dos años de diseño.
+
+Aspectos demográficos: 
+
+Comportamientos: Es proactivo. Está buscando su camino laboral. 
+
+Necesidades y Objetivos: Busca alguien para colaborar con un nuevo proyecto  que requiere
+
+#### Más probable
+
+Quién: Carla, 38 años. Diseñadora gráfica e ilustradora.
+
+Aspectos demográficos: Diseñadora con más de 10 años de experiencia. Ha hecho diplomados para especializarse en ilustración. 
+
+Comportamientos: Es perfeccionista, está al día con las tendencias de ilustración. Colabora con distintos proyectos y clientes, ya que le gusta tener un amplio espectro de trabajo.
+
+Necesidades y Objetivos: Buscar un diseñador integral, que colabore con sus proyectos más importantes para hacer crecer su empresa y que sepa adaptarse a su estilo gráfico.
 
 
 
