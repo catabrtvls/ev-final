@@ -9,7 +9,7 @@ Portafolio personal, para exponer una selección de trabajos realizados en la ca
 
 ## Usuarios
 
-#### Menos probable
+#### Extremo
 
 Quién: Roberto, 45 años. 
 
@@ -29,7 +29,7 @@ Comportamientos: Es proactivo. Está buscando su camino laboral y le gusta parti
 
 Necesidades y Objetivos: Busca alguien para colaborar con un nuevo proyecto que implica trabajo de ilustración y animación. Tiene conocimientos de diseño gráfico, pero no de ilustración, que es lo que necesita actualmente para su proyecto. 
 
-#### Más probable
+#### Extremo
 
 Quién: Carla, 38 años. Diseñadora gráfica e ilustradora.
 
